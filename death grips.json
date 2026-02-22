@@ -7,9 +7,11 @@
       "id": "123456789"
     }
   ],
-  "spec": 3,
-  "fonts": {
-    "primary": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf",
-    "display": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf"
+  "spec": 1,
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf"
   }
 }
