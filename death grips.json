@@ -1,0 +1,15 @@
+{
+  "name": "Death Grips Font",
+  "description": "Custom uploaded Death Grips typography.",
+  "authors": [
+    {
+      "name": "GrandGuuse",
+      "id": "123456789"
+    }
+  ],
+  "spec": 3,
+  "fonts": {
+    "primary": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf",
+    "display": "https://raw.githubusercontent.com/GrandGuuse/Font-test/main/Death%20Grips.otf"
+  }
+}
